@@ -2,22 +2,6 @@ The goal of this enhancement project is to understand the existing Restaurant co
 
 Your existing Restaurant app, which you have developed, allows users to view a list of dish items in different tabs of menu items. Users can also increase or decrease the quantity of a particular dish item.
 
-#### Mobile Interface
-
-<a href="https://res.cloudinary.com/dupvp9gj9/image/upload/v1688464567/Restaurant_page_movie-view_dqv1fl.png" target=_blank_>
-    <div style="text-align: center;">
-        <img src="https://res.cloudinary.com/dupvp9gj9/image/upload/v1688465518/Restaurant_page_movie-view_2_p6r4up.png" alt="restaurant-app" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-    </div>
-</a>
-
-<br/>
-#### Web Interface
-<a href="https://res.cloudinary.com/dupvp9gj9/image/upload/v1688464566/Restaurant_page_web-view_l7snar.png" target=_blank_ >
-    <div style="text-align: center;">
-        <img src="https://res.cloudinary.com/dupvp9gj9/image/upload/v1688464566/Restaurant_page_web-view_l7snar.png" alt="restaurant-app" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-    </div>
-</a>
-
 <h2>Enhancement Functionality</h2>
 Functionality to be added
 Keep the existing code in Home Route and add a Login Route and a Cart Route to the application.
